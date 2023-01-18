@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+a:visited{
+    color:unset;
+}
+a:hover{
+    color: blue;
+}
+li
+{
+    font-size: 20;
+}
+mark{
+    background-color: transparent;
+    font-family: Barlow, sans-serif;
+    font-weight: bold;
+    color: #2b2d37;
+}
+#Habilidades{ margin: 0;}
+ul{margin: 0;}
+body{
+    background-color: #2b2d37;
+    font-size: 30;
+    font-family: Ubuntu,sans-serif;
+    color: #E0D1EF;
+    
+}
