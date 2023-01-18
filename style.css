@@ -23,7 +23,11 @@ li
     word-spacing: 10px;
 }
 
-
+div.descrição img{
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background-color:rgb(105, 65, 65);
+}
 div.descrição img, .fotoText{
     margin-left: 50%;
     font-size: 20px;
