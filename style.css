@@ -12,11 +12,22 @@ li
 {
     font-size: 20;
 }
-mark{
-    background-color: transparent;
-    font-family: Barlow, sans-serif;
-    font-weight: bold;
-    color: #2b2d37;
+.descrição{
+    width: 45%;
+    display: inline-block;
+    vertical-align:middle;
+    
+}
+.dText{
+    line-height: 100px;
+    word-spacing: 10px;
+}
+
+
+div.descrição img, .fotoText{
+    margin-left: 50%;
+    font-size: 20px;
+    text-align: center;
 }
 #Habilidades{ margin: 0;}
 ul{margin: 0;}
